@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hi there, I'm Bartosz <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-<!--
-**bartoszgrabowski93/bartoszgrabowski93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Junior Full-stack Developer
 
-Here are some ideas to get you started:
+:desktop_computer: I’m looking for a job as Junior Full-stack Developer / Junior .NET/C# Developer / Junior JavaScript Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages & Technologies
+
+![.NET](https://img.shields.io/badge/.net-grey?style=for-the-badge&logo=dotnet)
+![c#](https://img.shields.io/badge/csharp-grey?style=for-the-badge&logo=csharp)
+![JavaScript](https://img.shields.io/badge/JavaScript-grey?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/React-grey?style=for-the-badge&logo=react)
+![HTML5](https://img.shields.io/badge/html5-grey?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/css3-grey?style=for-the-badge&logo=css3)
+![git](https://img.shields.io/badge/git-grey?style=for-the-badge&logo=git)
+![github](https://img.shields.io/badge/github-grey?style=for-the-badge&logo=github)
+
+## Connect with me
+
+[![Linkedin](https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bartosz-grabowski-ab4720197/)
+
+## GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bartoszgrabowski93&layout=compact&count_private=true" />
